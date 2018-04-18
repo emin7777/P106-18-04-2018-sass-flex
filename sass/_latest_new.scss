@@ -1,0 +1,26 @@
+#latest_news{
+	width: 100%;
+h1{
+	text-align: center;
+	color:red;
+ }
+
+ h1::before{
+
+ 	
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 37px;
+    height: 1px;
+    margin: -20px auto;
+    content: '';
+    opacity: 1;
+   color: black;
+   
+
+ }
+
+
+}
